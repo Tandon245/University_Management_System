@@ -4,12 +4,6 @@
 University Management System API
 
 
-
-
-
-
-
-
 ## Screenshots
 
 
@@ -35,4 +29,9 @@ I'm a Java developer...
 
 # Appendix
  This is an Application to manange university events and the student APIs
+
+
+# Feedback
+
+If you have any feedback, please reach out to us https://github.com/Tandon245
 
